@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "thumb": "/images/team/team-1.png",
+    "title": "Varun Verma",
+    "designation": "Founder & CEO",
+    "description": "As the visionary behind Aegis Secura, Varun is dedicated to driving innovation in the ever-evolving field of cybersecurity.<br>With a deep passion for safeguarding digital landscapes, Varun founded the company to provide small and medium-sized businesses with robust, tailored solutions that rival those of larger enterprises.<br>His hands-on expertise, strategic foresight, and commitment to transparency ensure that every client experiences unparalleled service and measurable results. As a dynamic leader, Varun works closely with clients to understand their unique challenges, making cybersecurity accessible, affordable, and effective.",
+    "social": {
+      "twitter": "https://twitter.com/",
+      "linkedin": "https://www.linkedin.com/"
+    }
+  },
+  {
+    "id": 2,
+    "thumb": "/images/team/team-2.png",
+    "title": "Saim Ali",
+    "designation": "CTO",
+    "description": "Saim brings a wealth of technical expertise and innovation to Aegis Secura as the Chief Technology Officer. With a knack for solving complex challenges and a passion for staying ahead of emerging threats, Saim leads the charge in developing and implementing cutting-edge cybersecurity strategies.<br> Whether it’s designing secure networks, conducting vulnerability assessments, or staying on the forefront of AI-driven threat detection, he ensures that Aegis Secura remains a trusted partner in protecting digital assets.<br> His forward-thinking approach and technical acumen are the driving forces behind our technical excellence.",
+    "social": {
+     "twitter": "https://twitter.com/",
+      "linkedin": "https://www.linkedin.com/"
+    }
+  },
+  {
+    "id": 3,
+    "thumb": "/images/team/team-3.png",
+    "title": "Somya Gupta",
+    "designation": "COO",
+    "description": "Somya is the organizational backbone of Aegis Secura, ensuring seamless operations and a client-focused experience. <br>With a strong background in operational management and a deep understanding of business needs, Somya oversees daily activities to ensure efficiency and excellence in service delivery. <br>She specialize in fostering strong client relationships, coordinating cross-functional teams, and driving continuous improvement across all aspects of the company. Her dedication to creating an exceptional client experience ensures that Aegis Secura stands out as a reliable, results-driven cybersecurity partner.",
+    "social": {
+      "twitter": "https://twitter.com/",
+      "linkedin": "https://www.linkedin.com/"
+    }
+  }
+]

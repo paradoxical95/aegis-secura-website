@@ -1,0 +1,1403 @@
+[
+  {
+    "image": "/images/icon/icon_consultation.png",
+    "title": "Consultation",
+    "cate": "Consultation",
+    "description": "For all matters related to Network/Data strengthening along with sector specialized consultation.",
+    "process": {
+      "sectionSub": "Process",
+      "sectionTitle": "DELETE ALL THIS",
+      "para": "Our meticulous UI/UX design strategy ensures a user-centric and visually compelling experience for your product.",
+      "steps": [
+        {
+          "thumb": "/images/others/process-1.png",
+          "subtitle": "Step One",
+          "title": "Research",
+          "paragraph": "We start by understanding your users and their needs through thorough research, ensuring our designs are user-focused and goal-oriented."
+        },
+        {
+          "thumb": "/images/others/process-2.png",
+          "subtitle": "Step Two",
+          "title": "Wireframing",
+          "paragraph": "In this stage, we create wireframes to map out the structure and flow of the user interface, prioritizing usability and simplicity."
+        },
+        {
+          "thumb": "/images/others/process-3.png",
+          "subtitle": "Step Three",
+          "title": "Prototyping",
+          "paragraph": "We develop interactive prototypes that allow you to visualize and test the user experience before the final design implementation."
+        },
+        {
+          "id": 4,
+          "thumb": "/images/others/process-4.png",
+          "subtitle": "Step Four",
+          "title": "Visual Design",
+          "paragraph": "Our designers create visually appealing and cohesive designs that reflect your brand identity and enhance user engagement."
+        }
+      ]
+    },
+    "serviceName": "Consultation",
+    "serviceDescription": "Protecting your digital assets is more critical than ever. Our Cybersecurity Consultation services offer expert guidance to safeguard your business from evolving cyber threats. We assess your systems, identify vulnerabilities, and implement tailored security strategies to ensure your data, networks, and applications remain secure. Whether you're looking to enhance existing measures or develop a comprehensive security plan, our team provides the expertise and support to give you peace of mind in an increasingly connected world.",
+    "steps": [
+      {
+        "accordionHeader": "Enhanced Protection Against Cyber Threats",
+        "accordionDescription": "Cybersecurity consultation helps identify and address vulnerabilities in your systems, reducing the risk of cyberattacks like data breaches, ransomware, and phishing. This ensures your sensitive business data remains secure, giving you peace of mind."
+      },
+
+      {
+        "accordionHeader": "Compliance with Regulations",
+        "accordionDescription": "Our consultation services ensure that your business meets industry-specific security standards and compliance requirements (such as GDPR or HIPAA). This helps you avoid legal penalties and maintain customer trust."
+      },
+      {
+        "accordionHeader": "Cost-Effective Risk Management",
+        "accordionDescription": "By proactively addressing security risks, you can avoid the high costs of data loss, downtime, or reputational damage. Our expert advice helps you prioritize security investments that provide the best return on investment for your business."
+      }
+    ]
+  },
+  {
+    "image": "/images/icon/icon_stalking.png",
+    "title": "VA-PT",
+    "description": "Vulnerability Assessment and Penetration Testing for the entire network and systems connected to your business.",
+    "cate": "VA-PT",
+    "process": {
+      "sectionSub": "Process",
+      "sectionTitle": "Our Process",
+      "para": "Our comprehensive strategy ensures a secure network of strengthened systems.",
+      "steps": [
+        {
+          "thumb": "/images/others/process-1.png",
+          "subtitle": "Step One",
+          "title": "Planning",
+          "paragraph": "We begin by understanding your project requirements and creating a detailed plan to guide the development process, ensuring clarity and alignment with your goals."
+        },
+        {
+          "thumb": "/images/others/process-2.png",
+          "subtitle": "Step Two",
+          "title": "Design",
+          "paragraph": "Our designers create intuitive and engaging user interfaces that align with your brand and enhance user experience."
+        },
+        {
+          "thumb": "/images/others/process-3.png",
+          "subtitle": "Step Three",
+          "title": "Development",
+          "paragraph": "Our developers utilize the latest technologies and methodologies to build robust and scalable websites, keeping you informed throughout the development process."
+        },
+        {
+          "id": 4,
+          "thumb": "/images/others/process-4.png",
+          "subtitle": "Step Four",
+          "title": "Testing",
+          "paragraph": "We rigorously test the developed website to identify and fix any issues, ensuring a smooth and error-free user experience before launch."
+        }
+      ]
+    },
+    "serviceName": "VA-PT",
+    "serviceDescription": "Our Vulnerability Assessment and Penetration Testing services identify weaknesses in your network, systems, and applications before malicious actors can exploit them. Through thorough scanning and simulated attacks, we uncover hidden vulnerabilities and provide actionable insights to fortify your defenses. Whether you’re assessing your IT infrastructure or preparing for regulatory audits, our expert team ensures that your organization is well-protected and resilient to threats.",
+
+    "steps": [
+      {
+        "accordionHeader": "Proactive Threat Identification",
+        "accordionDescription": "By simulating real-world attacks, we uncover vulnerabilities before hackers can exploit them, allowing you to address weaknesses proactively rather than reactively."
+      },
+      {
+        "accordionHeader": "Tailored Security Recommendations",
+        "accordionDescription": "After assessing your systems, we provide actionable and prioritized recommendations in the form of an AAR (After Action Report), helping you strengthen your security posture with minimal disruption and maximum impact."
+      },
+      {
+        "accordionHeader": "Boosted Customer Confidence",
+        "accordionDescription": "Regular vulnerability assessments and penetration tests demonstrate your commitment to security, enhancing customer trust and giving you a competitive edge in the market."
+      }
+    ]
+  },
+
+  {
+    "image": "/images/icon/icon_safety_2.png",
+    "title": "Incident Response",
+    "description": "Response planning, Threat Monitoring, Entry-level Forensic Analysis & Ransomware Readiness Testing.",
+    "cate": "Incident Response",
+    "process": {
+      "sectionSub": "Process",
+      "sectionTitle": "Tactics for Incident Response",
+      "para": "Our meticulous strategy ensures a safe and thorough monitoring and analysis of the incident. ",
+      "steps": [
+        {
+          "thumb": "/images/others/process-1.png",
+          "subtitle": "Step One",
+          "title": "Discovery",
+          "paragraph": "We start by understanding your app idea, target audience, and business goals to create a strategic roadmap for development."
+        },
+        {
+          "thumb": "/images/others/process-2.png",
+          "subtitle": "Step Two",
+          "title": "Prototyping",
+          "paragraph": "We develop interactive prototypes to visualize and test the app's user experience and functionality before the final development."
+        },
+        {
+          "thumb": "/images/others/process-3.png",
+          "subtitle": "Step Three",
+          "title": "Development",
+          "paragraph": "Our developers use the latest technologies and best practices to build a robust and scalable mobile application, ensuring it meets all your requirements."
+        },
+        {
+          "id": 4,
+          "thumb": "/images/others/process-4.png",
+          "subtitle": "Step Four",
+          "title": "Testing",
+          "paragraph": "We conduct thorough testing to identify and resolve any issues, ensuring a smooth and error-free user experience before the app is launched."
+        }
+      ]
+    },
+    "serviceName": "Incident Response",
+    "serviceDescription": "Our Incident Response service helps your business swiftly and effectively respond to security breaches or cyberattacks. We provide a well-structured plan to detect, contain, and mitigate the impact of incidents, minimizing downtime and reducing the risk of further damage. With our expert support, you can recover quickly, preserve critical evidence, and prevent future incidents from disrupting your operations.",
+    "steps": [
+      {
+        "accordionHeader": "Rapid Response and Minimization of Damage",
+        "accordionDescription": "Our team acts quickly to identify and contain security incidents, reducing the time your business remains vulnerable and minimizing potential financial and reputational damage."
+      },
+      {
+        "accordionHeader": "Comprehensive Incident Analysis",
+        "accordionDescription": "We provide a detailed analysis of the incident, identifying the root cause and outlining the steps taken to resolve it. This helps strengthen your defenses and avoid similar attacks in the future."
+      },
+      {
+        "accordionHeader": "Enhanced Regulatory Compliance",
+        "accordionDescription": "By responding to incidents in a structured and documented way, we help ensure that your business meets legal and regulatory requirements, reducing the risk of non-compliance penalties."
+      }
+    ]
+  },
+
+  {
+    "image": "/images/icon/icon_cyber_police.png",
+    "title": "Data Protection & Compliance",
+    "description": "Data is the new currency and its protection is of outmost importance and so are the guidelines regarding data.",
+    "cate": "Data Protection & Compliance",
+    "process": 
+    {
+      "sectionSub": "Process",
+      "sectionTitle": "Data Protection & Compliance Process",
+      "para": "Two birds with one stone. Being compliant while also protecting customer data.",
+      "steps": [
+        {
+          "thumb": "/images/others/process-1.png",
+          "subtitle": "Step One",
+          "title": "Audit",
+          "paragraph": "We start with a comprehensive audit of your website to identify strengths, weaknesses, and opportunities for improvement."
+        },
+        {
+          "thumb": "/images/others/process-2.png",
+          "subtitle": "Step Two",
+          "title": "Keyword Research",
+          "paragraph": "Our team conducts thorough keyword research to find the best terms for your business, targeting the right audience and driving relevant traffic."
+        },
+        {
+          "thumb": "/images/others/process-3.png",
+          "subtitle": "Step Three",
+          "title": "On-Page Optimization",
+          "paragraph": "We optimize your website's content, meta tags, and structure to ensure it is search engine friendly and aligned with target keywords."
+        },
+        {
+          "id": 4,
+          "thumb": "/images/others/process-4.png",
+          "subtitle": "Step Four",
+          "title": "Off-Page Optimization",
+          "paragraph": "Our off-page strategies include building high-quality backlinks, social media engagement, and other techniques to boost your website's authority and ranking."
+        }
+      ]
+    },
+    "serviceName": "Data Protection & Compliance",
+    "serviceDescription": "Our Data Protection & Compliance service helps ensure your business is fully aligned with data privacy laws and regulations, such as GDPR, CCPA, and HIPAA. We assess your current practices, implement secure data protection strategies, and provide ongoing monitoring to safeguard sensitive information. Our team ensures that your data handling processes are secure, compliant, and ready for audit, giving you confidence in meeting regulatory standards.",
+    "steps": [
+      {
+        "accordionHeader": "Regulatory Compliance Assurance",
+        "accordionDescription": "We ensure your business complies with industry-specific data protection regulations, helping you avoid hefty fines and legal repercussions while maintaining customer trust."
+      },
+      {
+        "accordionHeader": "Enhanced Data Security",
+        "accordionDescription": "Our strategies protect your data from unauthorized access, breaches, or loss by implementing encryption, secure storage, and access controls tailored to your organization’s needs."
+      },
+      {
+        "accordionHeader": "Risk Mitigation and Reputation Management",
+        "accordionDescription": "By safeguarding sensitive data and ensuring compliance, we help mitigate the risk of data breaches and reputation damage, ultimately strengthening customer loyalty and business integrity."
+      }
+    ]
+  },
+  {
+    "image": "/images/icon/icon_cyber_training.png",
+    "title": "Cyber-Awareness Training",
+    "description": "Equipped with resources to train your staff on all recent trends in Cybersecurity. Your Employee is your best asset.",
+    "cate": "Cyber-Awareness Training",
+    "process": {
+      "sectionSub": "Process",
+      "sectionTitle": "Our Training Process",
+      "para": "Our meticulously designed process is sufficient to equip your staff with the knowledge to be cyber-safe and be cyber-smart in today's world.",
+      "steps": [
+        {
+          "thumb": "/images/others/process-1.png",
+          "subtitle": "Step One",
+          "title": "Planning",
+          "paragraph": "We start by understanding your vision and objectives, creating a detailed plan to guide the video editing process and ensure alignment with your goals."
+        },
+        {
+          "thumb": "/images/others/process-2.png",
+          "subtitle": "Step Two",
+          "title": "Rough Cut",
+          "paragraph": "Our editors create a rough cut of the video, arranging the footage and establishing the basic structure and flow to provide an initial preview."
+        },
+        {
+          "thumb": "/images/others/process-3.png",
+          "subtitle": "Step Three",
+          "title": "Fine Tuning",
+          "paragraph": "We refine the video by enhancing the visuals, adding transitions, effects, and adjusting the pacing to ensure a polished and cohesive final product."
+        },
+        {
+          "id": 4,
+          "thumb": "/images/others/process-4.png",
+          "subtitle": "Step Four",
+          "title": "Final Review",
+          "paragraph": "We conduct a thorough review of the video with you, making any necessary adjustments based on your feedback to ensure complete satisfaction."
+        }
+      ]
+    },
+    "serviceName": "Cyber-Awareness Training",
+    "serviceDescription": "In today’s digital landscape, cybersecurity threats are a real and ever-present danger to businesses of all sizes. Our Cybersecurity Awareness Training is designed to empower your employees with the knowledge and skills to recognize, prevent, and respond to common cyber threats. From phishing scams to password vulnerabilities, we equip your team with the tools they need to safeguard your company’s sensitive information. With engaging and practical modules, we create a culture of security that helps protect your business from potential attacks.",
+    "steps": [
+      {
+        "accordionHeader": "Enhanced Protection Against Cyber Threats",
+        "accordionDescription": "Training your employees to recognize phishing emails, malware, and other threats reduces the risk of security breaches. Small and medium businesses are often prime targets for cybercriminals due to their perceived vulnerability, and a well-informed team is your first line of defense."
+      },
+      {
+        "accordionHeader": "Cost-Effective Security Measure",
+        "accordionDescription": "Preventing a data breach or cyberattack can save your business from costly downtime, legal repercussions, and reputational damage. Cybersecurity Awareness Training is a low-cost, high-impact solution that helps avoid expensive consequences by empowering your employees to act as the first line of defense."
+      },
+      {
+        "accordionHeader": "Regulatory Compliance & Risk Mitigation",
+        "accordionDescription": "Many industries require businesses to meet specific cybersecurity standards. By investing in training, your team ensures your company stays compliant with regulations while minimizing the risk of non-compliance fines. Proactive training also helps build trust with customers who value data privacy and security."
+      }
+    ]
+  },
+  {
+    "image": "/images/icon/icon_infra_2.png",
+    "title": "Secure Infrastructure",
+    "description": "Your infrastructure setup defines how strong your first layer of defense is. We can help.",
+    "cate": "Secure Infrastructure",
+    "process": {
+      "sectionSub": "Process",
+      "sectionTitle": "Process of Securing your Infrastructure",
+      "para": "Steps",
+      "steps": [
+        {
+          "thumb": "/images/others/process-1.png",
+          "subtitle": "Step One",
+          "title": "Discover",
+          "paragraph": "We start by understanding your brand's vision, values, and target audience to lay the foundation for a compelling logo and branding strategy."
+        },
+        {
+          "thumb": "/images/others/process-2.png",
+          "subtitle": "Step Two",
+          "title": "Conceptualize",
+          "paragraph": "Our designers brainstorm and create initial logo concepts and branding elements, ensuring they align with your brand's identity and goals."
+        },
+        {
+          "thumb": "/images/others/process-3.png",
+          "subtitle": "Step Three",
+          "title": "Refine",
+          "paragraph": "We refine the selected concepts, incorporating your feedback to perfect the designs and ensure they resonate with your audience."
+        },
+        {
+          "id": 4,
+          "thumb": "/images/others/process-4.png",
+          "subtitle": "Step Four",
+          "title": "Deliver",
+          "paragraph": "We finalize the logo and branding assets, providing you with all the necessary files and guidelines for consistent brand representation across various platforms."
+        }
+      ]
+    },
+    "serviceName": "Secure Infrastructure",
+    "serviceDescription": "In an increasingly connected world, safeguarding your business infrastructure is more critical than ever. Our Securing Infrastructure service provides comprehensive protection for your IT assets, ensuring that your networks, servers, and systems are fortified against external and internal threats. Whether you're dealing with sensitive data, cloud solutions, or on-premise resources, we implement customized security strategies that align with your business needs. With our expertise, we ensure that your infrastructure remains resilient, scalable, and secure, so you can focus on growing your business with confidence.",
+    "steps": [
+      {
+        "accordionHeader": "Protection Against Cyber Threats and Attacks",
+        "accordionDescription": "Cyber threats such as ransomware, malware, and DDoS attacks can cripple your infrastructure. Our service offers multi-layered security solutions designed to protect critical systems, preventing unauthorized access and minimizing vulnerabilities. With secure infrastructure in place, your business can continue to operate smoothly without interruptions caused by cyber incidents."
+      },
+      {
+        "accordionHeader": "Improved Business Continuity",
+        "accordionDescription": "A secure infrastructure ensures that your business can recover quickly in case of a breach or technical failure. We implement disaster recovery plans, backup systems, and business continuity strategies that reduce downtime and guarantee the protection of your data, helping your company maintain seamless operations even during disruptions."
+      },
+      {
+        "accordionHeader": "Scalable & Future-Proof Security",
+        "accordionDescription": "As your business grows, so do the complexities of your infrastructure. Our service is designed with scalability in mind, allowing us to adapt to your evolving security needs. We provide proactive monitoring and updates to ensure your systems are always protected against emerging threats, future-proofing your business for long-term success."
+      }
+    ]
+  },
+  {
+    "image": "/images/icon/icon_data_merge.png",
+    "title": "BC-DR",
+    "description": "Business Continuity & Disaster Recovery. Stay resistant to attacks and never halt your operations.",
+    "cate": "BC-DR",
+    "process": {
+      "sectionSub": "Process",
+      "sectionTitle": "Our Social Media Marketing Process",
+      "para": "Our strategic approach to social media marketing ensures your brand stands out and connects with your target audience.",
+      "steps": [
+        {
+          "thumb": "/images/others/process-1.png",
+          "subtitle": "Step One",
+          "title": "Discover",
+          "paragraph": "We start by understanding your business goals, target audience, and current social media presence to create a tailored strategy."
+        },
+        {
+          "thumb": "/images/others/process-2.png",
+          "subtitle": "Step Two",
+          "title": "Strategize",
+          "paragraph": "Our team develops a comprehensive social media plan, including content themes, posting schedules, and engagement tactics."
+        },
+        {
+          "thumb": "/images/others/process-3.png",
+          "subtitle": "Step Three",
+          "title": "Create",
+          "paragraph": "We create high-quality, engaging content that resonates with your audience and aligns with your brand’s voice and objectives."
+        },
+        {
+          "id": 4,
+          "thumb": "/images/others/process-4.png",
+          "subtitle": "Step Four",
+          "title": "Execute",
+          "paragraph": "We implement the social media plan, posting content, engaging with your audience, and monitoring performance to ensure optimal results."
+        }
+      ]
+    },
+    "serviceName": "BC-DR",
+    "serviceDescription": "In a world where unexpected disruptions can occur at any moment, Business Continuity and Disaster Recovery (BC-DR) planning is crucial to ensure your company can continue operating, no matter the circumstances. Our BC-DR service offers tailored strategies that protect your business from natural disasters, cyberattacks, hardware failures, and other unforeseen events. We help you develop comprehensive plans for data backup, recovery, and system restoration, ensuring that your operations can resume quickly and smoothly after any disaster, minimizing downtime and financial losses.",
+    "steps": [
+      {
+        "accordionHeader": "Minimized Downtime and Business Disruption",
+        "accordionDescription": "A well-prepared BC-DR plan reduces the impact of disruptions by providing a clear, actionable roadmap for recovery. By quickly restoring systems and data, you can maintain business operations with minimal downtime, ensuring that your clients and stakeholders are not affected by outages or delays."
+      },
+      {
+        "accordionHeader": "Data Protection and Compliance",
+        "accordionDescription": "Data loss is one of the most significant risks businesses face. Our BC-DR service includes secure data backup solutions and a recovery strategy to ensure that your critical business information is protected and recoverable. Additionally, having a solid BC-DR plan helps ensure compliance with industry regulations and data privacy laws, protecting you from penalties and reputational harm."
+      },
+      {
+        "accordionHeader": "Risk Mitigation and Long-Term Security",
+        "accordionDescription": "With a proactive BC-DR plan, you’re not only preparing for today’s threats, but also mitigating future risks. We offer continuous monitoring, testing, and updates to your disaster recovery procedures, ensuring that your systems are always ready to handle new and evolving risks. By preparing your business for the unexpected, you safeguard your company's future."
+      }
+    ]
+  },
+  {
+    "image": "/images/icon/icon_audit.png",
+    "title": "Audit and Reporting",
+    "description": "Stay proactive in securing your business with our comprehensive Audit and Reporting service.",
+    "cate": "Audit and Reporting",
+    "process": {
+      "sectionSub": "Process",
+      "sectionTitle": "DELETE ALL THIS",
+      "para": "Our comprehensive strategy ensures that your systems are always aligned with the latest security standards.",
+      "steps": [
+        {
+          "thumb": "/images/others/process-1.png",
+          "subtitle": "Step One",
+          "title": "Discover",
+          "paragraph": "We begin by understanding your business, target audience, and marketing objectives to lay the foundation for your advertising strategy."
+        },
+        {
+          "thumb": "/images/others/process-2.png",
+          "subtitle": "Step Two",
+          "title": "Plan",
+          "paragraph": "Our team creates a detailed advertising plan, including budget allocation, channel selection, and creative concepts tailored to your goals."
+        },
+        {
+          "thumb": "/images/others/process-3.png",
+          "subtitle": "Step Three",
+          "title": "Create",
+          "paragraph": "We develop compelling ad creatives and messaging that capture attention and resonate with your target audience across various platforms."
+        },
+        {
+          "id": 4,
+          "thumb": "/images/others/process-4.png",
+          "subtitle": "Step Four",
+          "title": "Execute",
+          "paragraph": "We implement the advertising strategy, launching campaigns across selected channels and ensuring they run smoothly and effectively."
+        }
+      ]
+    },
+    "serviceName": "Audit and Reporting",
+    "serviceDescription": "Ensuring that your cybersecurity practices align with best practices and regulatory requirements is essential for safeguarding your business. Our Audit and Reporting service provides in-depth assessments of your current security posture, identifying vulnerabilities and areas of improvement. We conduct thorough security audits, vulnerability assessments, and compliance checks, delivering clear, easy to understand, actionable reports that outline findings, risks, and recommended actions. With our audit and reporting service, we help you maintain transparency, strengthen your security framework, and stay ahead of potential threats.",
+    "steps": [
+      {
+        "accordionHeader": "Identifying Vulnerabilities and Weaknesses",
+        "accordionDescription": "Regular security audits allow us to uncover potential vulnerabilities that could be exploited by cybercriminals. By assessing your systems, processes, and policies, we help identify gaps in your security and provide actionable insights to address them before they can be exploited, ensuring stronger overall protection for your business."
+      },
+      {
+        "accordionHeader": "Ensuring Regulatory Compliance",
+        "accordionDescription": "Many industries are subject to strict cybersecurity regulations and standards. Our audit and reporting service ensures that your business remains compliant with local and global regulatory frameworks, such as GDPR, HIPAA, or PCI DSS. By staying compliant, you avoid penalties, maintain customer trust, and enhance your company’s reputation."
+      },
+      {
+        "accordionHeader": "Data-Driven Decision Making and Risk Management",
+        "accordionDescription": "The detailed reports from our audits provide a clear picture of your security status, empowering you to make informed decisions about your cybersecurity strategy. Our insights help prioritize risk management efforts, allocate resources more effectively, and implement solutions that have the greatest impact on securing your business."
+      }
+    ]
+  },
+  {
+    "image": "/images/icon/icon_vCISO.png",
+    "title": "vCISO Service",
+    "description": "Enhance your cybersecurity strategy with a virtual CISO, and protect your business with expert leadership.",
+    "cate": "vCISO Service",
+    "process": {
+      "sectionSub": "Process",
+      "sectionTitle": "Process of deploying a vCISO",
+      "para": "How we create a vCISO catered to your Organization",
+      "steps": [
+        {
+          "thumb": "/images/others/process-1.png",
+          "subtitle": "Step One",
+          "title": "Discover",
+          "paragraph": "We begin by understanding your content needs, goals, and existing systems to create a tailored content management plan."
+        },
+        {
+          "thumb": "/images/others/process-2.png",
+          "subtitle": "Step Two",
+          "title": "Plan",
+          "paragraph": "Our team develops a detailed content management strategy, including workflow design, platform selection, and content architecture."
+        },
+        {
+          "thumb": "/images/others/process-3.png",
+          "subtitle": "Step Three",
+          "title": "Develop",
+          "paragraph": "We build and customize the content management system, ensuring it integrates seamlessly with your existing tools and processes."
+        },
+        {
+          "id": 4,
+          "thumb": "/images/others/process-4.png",
+          "subtitle": "Step Four",
+          "title": "Implement",
+          "paragraph": "We implement the content management system, providing training and support to ensure your team can use it effectively."
+        }
+      ]
+    },
+    "serviceName": "vCISO Service",
+    "serviceDescription": "Navigating the complexities of cybersecurity can be challenging, especially for small and medium businesses. Our vCISO (Virtual Chief Information Security Officer) service provides you with a dedicated, expert-level security leader without the need for a full-time, in-house CISO. We offer strategic guidance, oversight, and the development of customized security frameworks tailored to your business needs. With a vCISO, you gain access to top-tier cybersecurity expertise, ensuring that your security posture is robust, compliant, and aligned with your business goals.",
+    "steps": [
+      {
+        "accordionHeader": "Cost-Effective Access to Expertise",
+        "accordionDescription": "Hiring a full-time CISO can be costly, particularly for small and medium businesses. Our vCISO service allows you to leverage experienced cybersecurity leadership at a fraction of the cost, providing strategic guidance and high-level security management without the overhead of a permanent hire."
+      },
+      {
+        "accordionHeader": "Customized Cybersecurity Strategy",
+        "accordionDescription": "A vCISO helps design and implement a tailored cybersecurity strategy that aligns with your unique business requirements, risks, and goals. Whether it’s developing a risk management framework, creating incident response plans, or ensuring regulatory compliance, we ensure that your security strategy fits your specific needs."
+      },
+
+      {
+        "accordionHeader": "Proactive Risk Management and Continuous Improvement",
+        "accordionDescription": "Our vCISO service continuously monitors and evaluates your security posture, identifying emerging threats and adapting strategies accordingly. We focus on proactive risk management, ensuring that your business is always prepared for potential cyber threats, while also driving ongoing improvement to your security systems and policies."
+      }
+    ]
+  },
+  {
+    "image": "/images/icon/icon-1.png",
+    "title": "Design",
+    "description": "Simply drag and drop photos and videos into your workspace to automatically add them to your Collab Cloud library.",
+    "process": {
+      "sectionSub": "Process",
+      "sectionTitle": "Our logo design process",
+      "para": "Our comprehensive logo design strategy ensures a perfectly crafted logo for your business.",
+      "steps": [
+        {
+          "thumb": "/images/others/process-1.png",
+          "subtitle": "Step One",
+          "title": "Discover",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        },
+        {
+          "thumb": "/images/others/process-2.png",
+          "subtitle": "Step Two",
+          "title": "Prototype",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        },
+        {
+          "thumb": "/images/others/process-3.png",
+          "subtitle": "Step Three",
+          "title": "Test",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        },
+        {
+          "id": 4,
+          "thumb": "/images/others/process-4.png",
+          "subtitle": "Step four",
+          "title": "Build",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        }
+      ]
+    }
+  },
+  {
+    "image": "/images/icon/icon-2.png",
+    "title": "Development",
+    "description": "We provide comprehensive development services to bring your digital products to life with cutting-edge technology and best practices.",
+    "process": {
+      "sectionSub": "Process",
+      "sectionTitle": "Our Development Process",
+      "para": "Our structured development process ensures efficient and high-quality outcomes tailored to your business needs.",
+      "steps": [
+        {
+          "thumb": "/images/others/process-1.png",
+          "subtitle": "Step One",
+          "title": "Planning",
+          "paragraph": "We begin by understanding your project requirements and creating a detailed plan to guide the development process, ensuring clarity and alignment with your goals."
+        },
+        {
+          "thumb": "/images/others/process-2.png",
+          "subtitle": "Step Two",
+          "title": "Design",
+          "paragraph": "Our designers collaborate with you to create intuitive and engaging user interfaces that align with your brand and enhance user experience."
+        },
+        {
+          "thumb": "/images/others/process-3.png",
+          "subtitle": "Step Three",
+          "title": "Development",
+          "paragraph": "Our developers utilize the latest technologies and methodologies to build robust and scalable solutions, keeping you informed throughout the development process."
+        },
+        {
+          "id": 4,
+          "thumb": "/images/others/process-4.png",
+          "subtitle": "Step Four",
+          "title": "Testing",
+          "paragraph": "We rigorously test the developed product to identify and fix any issues, ensuring a smooth and error-free user experience before launch."
+        }
+      ]
+    }
+  },
+  {
+    "image": "/images/icon/icon-3.png",
+    "title": "Online marketing",
+    "description": "Simply drag and drop photos and videos into your workspace to automatically add them to your Collab Cloud library.",
+    "process": {
+      "sectionSub": "Process",
+      "sectionTitle": "Our logo design process",
+      "para": "Our comprehensive logo design strategy ensures a perfectly crafted logo for your business.",
+      "steps": [
+        {
+          "thumb": "/images/others/process-1.png",
+          "subtitle": "Step One",
+          "title": "Discover",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        },
+        {
+          "thumb": "/images/others/process-2.png",
+          "subtitle": "Step Two",
+          "title": "Prototype",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        },
+        {
+          "thumb": "/images/others/process-3.png",
+          "subtitle": "Step Three",
+          "title": "Test",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        },
+        {
+          "id": 4,
+          "thumb": "/images/others/process-4.png",
+          "subtitle": "Step four",
+          "title": "Build",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        }
+      ]
+    }
+  },
+  {
+    "image": "/images/icon/icon-4.png",
+    "title": "Business",
+    "description": "Simply drag and drop photos and videos into your workspace to automatically add them to your Collab Cloud library.",
+    "process": {
+      "sectionSub": "Process",
+      "sectionTitle": "Our logo design process",
+      "para": "Our comprehensive logo design strategy ensures a perfectly crafted logo for your business.",
+      "steps": [
+        {
+          "thumb": "/images/others/process-1.png",
+          "subtitle": "Step One",
+          "title": "Discover",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        },
+        {
+          "thumb": "/images/others/process-2.png",
+          "subtitle": "Step Two",
+          "title": "Prototype",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        },
+        {
+          "thumb": "/images/others/process-3.png",
+          "subtitle": "Step Three",
+          "title": "Test",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        },
+        {
+          "id": 4,
+          "thumb": "/images/others/process-4.png",
+          "subtitle": "Step four",
+          "title": "Build",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        }
+      ]
+    }
+  },
+  {
+    "image": "/images/icon/icon-5.png",
+    "title": "Technology",
+    "description": "Simply drag and drop photos and videos into your workspace to automatically add them to your Collab Cloud library.",
+    "process": {
+      "sectionSub": "Process",
+      "sectionTitle": "Our logo design process",
+      "para": "Our comprehensive logo design strategy ensures a perfectly crafted logo for your business.",
+      "steps": [
+        {
+          "thumb": "/images/others/process-1.png",
+          "subtitle": "Step One",
+          "title": "Discover",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        },
+        {
+          "thumb": "/images/others/process-2.png",
+          "subtitle": "Step Two",
+          "title": "Prototype",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        },
+        {
+          "thumb": "/images/others/process-3.png",
+          "subtitle": "Step Three",
+          "title": "Test",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        },
+        {
+          "id": 4,
+          "thumb": "/images/others/process-4.png",
+          "subtitle": "Step four",
+          "title": "Build",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        }
+      ]
+    }
+  },
+  {
+    "image": "/images/icon/icon-6.png",
+    "title": "Content strategy",
+    "description": "Simply drag and drop photos and videos into your workspace to automatically add them to your Collab Cloud library.",
+    "process": {
+      "sectionSub": "Process",
+      "sectionTitle": "Our logo design process",
+      "para": "Our comprehensive logo design strategy ensures a perfectly crafted logo for your business.",
+      "steps": [
+        {
+          "thumb": "/images/others/process-1.png",
+          "subtitle": "Step One",
+          "title": "Discover",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        },
+        {
+          "thumb": "/images/others/process-2.png",
+          "subtitle": "Step Two",
+          "title": "Prototype",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        },
+        {
+          "thumb": "/images/others/process-3.png",
+          "subtitle": "Step Three",
+          "title": "Test",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        },
+        {
+          "id": 4,
+          "thumb": "/images/others/process-4.png",
+          "subtitle": "Step four",
+          "title": "Build",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        }
+      ]
+    }
+  },
+
+  {
+    "image": "/images/icon/icon-27.png",
+    "title": "Website Design",
+    "description": "We design professional looking yet simple Logo. Our designs are search engine and user friendly.",
+    "cate": "Design",
+    "process": {
+      "sectionSub": "Process",
+      "sectionTitle": "Our logo design process",
+      "para": "Our comprehensive logo design strategy ensures a perfectly crafted logo for your business.",
+      "steps": [
+        {
+          "thumb": "/images/others/process-1.png",
+          "subtitle": "Step One",
+          "title": "Discover",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        },
+        {
+          "thumb": "/images/others/process-2.png",
+          "subtitle": "Step Two",
+          "title": "Prototype",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        },
+        {
+          "thumb": "/images/others/process-3.png",
+          "subtitle": "Step Three",
+          "title": "Test",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        },
+        {
+          "id": 4,
+          "thumb": "/images/others/process-4.png",
+          "subtitle": "Step four",
+          "title": "Build",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        }
+      ]
+    }
+  },
+  {
+    "image": "/images/icon/icon-28.png",
+    "title": "Mobile app design",
+    "description": "We design professional looking yet simple Logo. Our designs are search engine and user friendly.",
+    "cate": "Design",
+    "process": {
+      "sectionSub": "Process",
+      "sectionTitle": "Our logo design process",
+      "para": "Our comprehensive logo design strategy ensures a perfectly crafted logo for your business.",
+      "steps": [
+        {
+          "thumb": "/images/others/process-1.png",
+          "subtitle": "Step One",
+          "title": "Discover",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        },
+        {
+          "thumb": "/images/others/process-2.png",
+          "subtitle": "Step Two",
+          "title": "Prototype",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        },
+        {
+          "thumb": "/images/others/process-3.png",
+          "subtitle": "Step Three",
+          "title": "Test",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        },
+        {
+          "id": 4,
+          "thumb": "/images/others/process-4.png",
+          "subtitle": "Step four",
+          "title": "Build",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        }
+      ]
+    }
+  },
+  {
+    "image": "/images/icon/icon-4.png",
+    "title": "Graphic/print design",
+    "description": "We design professional looking yet simple Logo. Our designs are search engine and user friendly.",
+    "cate": "Design",
+    "process": {
+      "sectionSub": "Process",
+      "sectionTitle": "Our logo design process",
+      "para": "Our comprehensive logo design strategy ensures a perfectly crafted logo for your business.",
+      "steps": [
+        {
+          "thumb": "/images/others/process-1.png",
+          "subtitle": "Step One",
+          "title": "Discover",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        },
+        {
+          "thumb": "/images/others/process-2.png",
+          "subtitle": "Step Two",
+          "title": "Prototype",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        },
+        {
+          "thumb": "/images/others/process-3.png",
+          "subtitle": "Step Three",
+          "title": "Test",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        },
+        {
+          "id": 4,
+          "thumb": "/images/others/process-4.png",
+          "subtitle": "Step four",
+          "title": "Build",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        }
+      ]
+    }
+  },
+
+  {
+    "image": "/images/icon/icon-32.png",
+    "title": "Mobile app development",
+    "description": "We design professional looking yet simple Logo. Our designs are search engine and user friendly.",
+    "cate": "Development",
+    "process": {
+      "sectionSub": "Process",
+      "sectionTitle": "Our logo design process",
+      "para": "Our comprehensive logo design strategy ensures a perfectly crafted logo for your business.",
+      "steps": [
+        {
+          "thumb": "/images/others/process-1.png",
+          "subtitle": "Step One",
+          "title": "Discover",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        },
+        {
+          "thumb": "/images/others/process-2.png",
+          "subtitle": "Step Two",
+          "title": "Prototype",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        },
+        {
+          "thumb": "/images/others/process-3.png",
+          "subtitle": "Step Three",
+          "title": "Test",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        },
+        {
+          "id": 4,
+          "thumb": "/images/others/process-4.png",
+          "subtitle": "Step four",
+          "title": "Build",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        }
+      ]
+    }
+  },
+  {
+    "image": "/images/icon/icon-33.png",
+    "title": "eCommerce",
+    "description": "We design professional looking yet simple Logo. Our designs are search engine and user friendly.",
+    "cate": "Development",
+    "process": {
+      "sectionSub": "Process",
+      "sectionTitle": "Our logo design process",
+      "para": "Our comprehensive logo design strategy ensures a perfectly crafted logo for your business.",
+      "steps": [
+        {
+          "thumb": "/images/others/process-1.png",
+          "subtitle": "Step One",
+          "title": "Discover",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        },
+        {
+          "thumb": "/images/others/process-2.png",
+          "subtitle": "Step Two",
+          "title": "Prototype",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        },
+        {
+          "thumb": "/images/others/process-3.png",
+          "subtitle": "Step Three",
+          "title": "Test",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        },
+        {
+          "id": 4,
+          "thumb": "/images/others/process-4.png",
+          "subtitle": "Step four",
+          "title": "Build",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        }
+      ]
+    }
+  },
+  {
+    "image": "/images/icon/icon-34.png",
+    "title": "SEO",
+    "description": "We design professional looking yet simple Logo. Our designs are search engine and user friendly.",
+    "cate": "Online Marketing",
+    "process": {
+      "sectionSub": "Process",
+      "sectionTitle": "Our logo design process",
+      "para": "Our comprehensive logo design strategy ensures a perfectly crafted logo for your business.",
+      "steps": [
+        {
+          "thumb": "/images/others/process-1.png",
+          "subtitle": "Step One",
+          "title": "Discover",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        },
+        {
+          "thumb": "/images/others/process-2.png",
+          "subtitle": "Step Two",
+          "title": "Prototype",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        },
+        {
+          "thumb": "/images/others/process-3.png",
+          "subtitle": "Step Three",
+          "title": "Test",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        },
+        {
+          "id": 4,
+          "thumb": "/images/others/process-4.png",
+          "subtitle": "Step four",
+          "title": "Build",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        }
+      ]
+    }
+  },
+  {
+    "image": "/images/icon/icon-35.png",
+    "title": "Pay-per click",
+    "description": "We design professional looking yet simple Logo. Our designs are search engine and user friendly.",
+    "cate": "Online Marketing",
+    "process": {
+      "sectionSub": "Process",
+      "sectionTitle": "Our logo design process",
+      "para": "Our comprehensive logo design strategy ensures a perfectly crafted logo for your business.",
+      "steps": [
+        {
+          "thumb": "/images/others/process-1.png",
+          "subtitle": "Step One",
+          "title": "Discover",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        },
+        {
+          "thumb": "/images/others/process-2.png",
+          "subtitle": "Step Two",
+          "title": "Prototype",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        },
+        {
+          "thumb": "/images/others/process-3.png",
+          "subtitle": "Step Three",
+          "title": "Test",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        },
+        {
+          "id": 4,
+          "thumb": "/images/others/process-4.png",
+          "subtitle": "Step four",
+          "title": "Build",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        }
+      ]
+    }
+  },
+  {
+    "image": "/images/icon/icon-36.png",
+    "title": "Email marketing",
+    "description": "We design professional looking yet simple Logo. Our designs are search engine and user friendly.",
+    "cate": "Online Marketing",
+    "process": {
+      "sectionSub": "Process",
+      "sectionTitle": "Our logo design process",
+      "para": "Our comprehensive logo design strategy ensures a perfectly crafted logo for your business.",
+      "steps": [
+        {
+          "thumb": "/images/others/process-1.png",
+          "subtitle": "Step One",
+          "title": "Discover",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        },
+        {
+          "thumb": "/images/others/process-2.png",
+          "subtitle": "Step Two",
+          "title": "Prototype",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        },
+        {
+          "thumb": "/images/others/process-3.png",
+          "subtitle": "Step Three",
+          "title": "Test",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        },
+        {
+          "id": 4,
+          "thumb": "/images/others/process-4.png",
+          "subtitle": "Step four",
+          "title": "Build",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        }
+      ]
+    }
+  },
+  {
+    "image": "/images/icon/icon-37.png",
+    "title": "Display marketing",
+    "description": "We design professional looking yet simple Logo. Our designs are search engine and user friendly.",
+    "cate": "Online Marketing",
+    "process": {
+      "sectionSub": "Process",
+      "sectionTitle": "Our logo design process",
+      "para": "Our comprehensive logo design strategy ensures a perfectly crafted logo for your business.",
+      "steps": [
+        {
+          "thumb": "/images/others/process-1.png",
+          "subtitle": "Step One",
+          "title": "Discover",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        },
+        {
+          "thumb": "/images/others/process-2.png",
+          "subtitle": "Step Two",
+          "title": "Prototype",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        },
+        {
+          "thumb": "/images/others/process-3.png",
+          "subtitle": "Step Three",
+          "title": "Test",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        },
+        {
+          "id": 4,
+          "thumb": "/images/others/process-4.png",
+          "subtitle": "Step four",
+          "title": "Build",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        }
+      ]
+    }
+  },
+
+  {
+    "image": "/images/icon/icon-39.png",
+    "title": "Digital strategy",
+    "description": "We design professional looking yet simple Logo. Our designs are search engine and user friendly.",
+    "cate": "Business",
+    "process": {
+      "sectionSub": "Process",
+      "sectionTitle": "Our logo design process",
+      "para": "Our comprehensive logo design strategy ensures a perfectly crafted logo for your business.",
+      "steps": [
+        {
+          "thumb": "/images/others/process-1.png",
+          "subtitle": "Step One",
+          "title": "Discover",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        },
+        {
+          "thumb": "/images/others/process-2.png",
+          "subtitle": "Step Two",
+          "title": "Prototype",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        },
+        {
+          "thumb": "/images/others/process-3.png",
+          "subtitle": "Step Three",
+          "title": "Test",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        },
+        {
+          "id": 4,
+          "thumb": "/images/others/process-4.png",
+          "subtitle": "Step four",
+          "title": "Build",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        }
+      ]
+    }
+  },
+  {
+    "image": "/images/icon/icon-40.png",
+    "title": "Business consulting",
+    "description": "We design professional looking yet simple Logo. Our designs are search engine and user friendly.",
+    "cate": "Business",
+    "process": {
+      "sectionSub": "Process",
+      "sectionTitle": "Our logo design process",
+      "para": "Our comprehensive logo design strategy ensures a perfectly crafted logo for your business.",
+      "steps": [
+        {
+          "thumb": "/images/others/process-1.png",
+          "subtitle": "Step One",
+          "title": "Discover",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        },
+        {
+          "thumb": "/images/others/process-2.png",
+          "subtitle": "Step Two",
+          "title": "Prototype",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        },
+        {
+          "thumb": "/images/others/process-3.png",
+          "subtitle": "Step Three",
+          "title": "Test",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        },
+        {
+          "id": 4,
+          "thumb": "/images/others/process-4.png",
+          "subtitle": "Step four",
+          "title": "Build",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        }
+      ]
+    }
+  },
+  {
+    "image": "/images/icon/icon-41.png",
+    "title": "Content writing",
+    "description": "We design professional looking yet simple Logo. Our designs are search engine and user friendly.",
+    "cate": "Business",
+    "process": {
+      "sectionSub": "Process",
+      "sectionTitle": "Our logo design process",
+      "para": "Our comprehensive logo design strategy ensures a perfectly crafted logo for your business.",
+      "steps": [
+        {
+          "thumb": "/images/others/process-1.png",
+          "subtitle": "Step One",
+          "title": "Discover",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        },
+        {
+          "thumb": "/images/others/process-2.png",
+          "subtitle": "Step Two",
+          "title": "Prototype",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        },
+        {
+          "thumb": "/images/others/process-3.png",
+          "subtitle": "Step Three",
+          "title": "Test",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        },
+        {
+          "id": 4,
+          "thumb": "/images/others/process-4.png",
+          "subtitle": "Step four",
+          "title": "Build",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        }
+      ]
+    }
+  },
+  {
+    "image": "/images/icon/icon-42.png",
+    "title": "Reporting",
+    "description": "We design professional looking yet simple Logo. Our designs are search engine and user friendly.",
+    "cate": "Business",
+    "process": {
+      "sectionSub": "Process",
+      "sectionTitle": "Our logo design process",
+      "para": "Our comprehensive logo design strategy ensures a perfectly crafted logo for your business.",
+      "steps": [
+        {
+          "thumb": "/images/others/process-1.png",
+          "subtitle": "Step One",
+          "title": "Discover",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        },
+        {
+          "thumb": "/images/others/process-2.png",
+          "subtitle": "Step Two",
+          "title": "Prototype",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        },
+        {
+          "thumb": "/images/others/process-3.png",
+          "subtitle": "Step Three",
+          "title": "Test",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        },
+        {
+          "id": 4,
+          "thumb": "/images/others/process-4.png",
+          "subtitle": "Step four",
+          "title": "Build",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        }
+      ]
+    }
+  },
+  {
+    "image": "/images/icon/icon-43.png",
+    "title": "Hosting",
+    "description": "We design professional looking yet simple Logo. Our designs are search engine and user friendly.",
+    "cate": "Technology",
+    "process": {
+      "sectionSub": "Process",
+      "sectionTitle": "Our logo design process",
+      "para": "Our comprehensive logo design strategy ensures a perfectly crafted logo for your business.",
+      "steps": [
+        {
+          "thumb": "/images/others/process-1.png",
+          "subtitle": "Step One",
+          "title": "Discover",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        },
+        {
+          "thumb": "/images/others/process-2.png",
+          "subtitle": "Step Two",
+          "title": "Prototype",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        },
+        {
+          "thumb": "/images/others/process-3.png",
+          "subtitle": "Step Three",
+          "title": "Test",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        },
+        {
+          "id": 4,
+          "thumb": "/images/others/process-4.png",
+          "subtitle": "Step four",
+          "title": "Build",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        }
+      ]
+    }
+  },
+  {
+    "image": "/images/icon/icon-44.png",
+    "title": "Big data analysis",
+    "description": "We design professional looking yet simple Logo. Our designs are search engine and user friendly.",
+    "cate": "Technology",
+    "process": {
+      "sectionSub": "Process",
+      "sectionTitle": "Our logo design process",
+      "para": "Our comprehensive logo design strategy ensures a perfectly crafted logo for your business.",
+      "steps": [
+        {
+          "thumb": "/images/others/process-1.png",
+          "subtitle": "Step One",
+          "title": "Discover",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        },
+        {
+          "thumb": "/images/others/process-2.png",
+          "subtitle": "Step Two",
+          "title": "Prototype",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        },
+        {
+          "thumb": "/images/others/process-3.png",
+          "subtitle": "Step Three",
+          "title": "Test",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        },
+        {
+          "id": 4,
+          "thumb": "/images/others/process-4.png",
+          "subtitle": "Step four",
+          "title": "Build",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        }
+      ]
+    }
+  },
+  {
+    "image": "/images/icon/icon-45.png",
+    "title": "Web Audit Practices",
+    "description": "We design professional looking yet simple Logo. Our designs are search engine and user friendly.",
+    "cate": "Content strategy",
+    "process": {
+      "sectionSub": "Process",
+      "sectionTitle": "Our logo design process",
+      "para": "Our comprehensive logo design strategy ensures a perfectly crafted logo for your business.",
+      "steps": [
+        {
+          "thumb": "/images/others/process-1.png",
+          "subtitle": "Step One",
+          "title": "Discover",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        },
+        {
+          "thumb": "/images/others/process-2.png",
+          "subtitle": "Step Two",
+          "title": "Prototype",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        },
+        {
+          "thumb": "/images/others/process-3.png",
+          "subtitle": "Step Three",
+          "title": "Test",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        },
+        {
+          "id": 4,
+          "thumb": "/images/others/process-4.png",
+          "subtitle": "Step four",
+          "title": "Build",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        }
+      ]
+    }
+  },
+  {
+    "image": "/images/icon/icon-46.png",
+    "title": "Marketing Flexibility",
+    "description": "We design professional looking yet simple Logo. Our designs are search engine and user friendly.",
+    "cate": "Content strategy",
+    "process": {
+      "sectionSub": "Process",
+      "sectionTitle": "Our logo design process",
+      "para": "Our comprehensive logo design strategy ensures a perfectly crafted logo for your business.",
+      "steps": [
+        {
+          "thumb": "/images/others/process-1.png",
+          "subtitle": "Step One",
+          "title": "Discover",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        },
+        {
+          "thumb": "/images/others/process-2.png",
+          "subtitle": "Step Two",
+          "title": "Prototype",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        },
+        {
+          "thumb": "/images/others/process-3.png",
+          "subtitle": "Step Three",
+          "title": "Test",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        },
+        {
+          "id": 4,
+          "thumb": "/images/others/process-4.png",
+          "subtitle": "Step four",
+          "title": "Build",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        }
+      ]
+    }
+  },
+  {
+    "image": "/images/icon/icon-47.png",
+    "title": "Advertising Strategy",
+    "description": "We design professional looking yet simple Logo. Our designs are search engine and user friendly.",
+    "cate": "Content strategy",
+    "process": {
+      "sectionSub": "Process",
+      "sectionTitle": "Our logo design process",
+      "para": "Our comprehensive logo design strategy ensures a perfectly crafted logo for your business.",
+      "steps": [
+        {
+          "thumb": "/images/others/process-1.png",
+          "subtitle": "Step One",
+          "title": "Discover",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        },
+        {
+          "thumb": "/images/others/process-2.png",
+          "subtitle": "Step Two",
+          "title": "Prototype",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        },
+        {
+          "thumb": "/images/others/process-3.png",
+          "subtitle": "Step Three",
+          "title": "Test",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        },
+        {
+          "id": 4,
+          "thumb": "/images/others/process-4.png",
+          "subtitle": "Step four",
+          "title": "Build",
+          "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        }
+      ]
+    }
+  }
+]

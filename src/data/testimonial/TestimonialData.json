@@ -1,0 +1,19 @@
+[
+  {
+    "fromtext": "Yelp",
+    "from": "/images/icon/profile1.webp",
+    "description": "“Their Audit process is in-line with many other big firms, so that's rare to see from a small firm. Their Reports are excellent and easy to understand. Their training helped my staff to stay prepared and code effectivley. Massively helpful. Highly recommended!”",
+    "authorimg": "/images/testimonial/testimonial-1.png",
+    "authorname": "Mansab Mir",
+    "authordesig": "Founder, Codechip Studios"
+  },
+  {
+    "fromtext": "Google",
+    "from": "/images/icon/google-2.png",
+    "description": "“Their consultation process was top-notch even for a small team. They work cohesively and effectively and are thorough in their approach towards testing for Vulnerabilities but also making it easy for us to understand and implement new rules.”",
+    "authorimg": "/images/testimonial/testimonial-2.png",
+    "authorname": "Varya",
+    "authordesig": "Lead Developer, Wolf Wire Studios"
+  }
+  
+]
