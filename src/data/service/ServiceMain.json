@@ -5,35 +5,10 @@
     "cate": "Consultation",
     "description": "For all matters related to Network/Data strengthening along with sector specialized consultation.",
     "process": {
-      "sectionSub": "Process",
-      "sectionTitle": "DELETE ALL THIS",
-      "para": "Our meticulous UI/UX design strategy ensures a user-centric and visually compelling experience for your product.",
+      "sectionSub": " ",
+      "sectionTitle": "",
+      "para": "",
       "steps": [
-        {
-          "thumb": "/images/others/process-1.png",
-          "subtitle": "Step One",
-          "title": "Research",
-          "paragraph": "We start by understanding your users and their needs through thorough research, ensuring our designs are user-focused and goal-oriented."
-        },
-        {
-          "thumb": "/images/others/process-2.png",
-          "subtitle": "Step Two",
-          "title": "Wireframing",
-          "paragraph": "In this stage, we create wireframes to map out the structure and flow of the user interface, prioritizing usability and simplicity."
-        },
-        {
-          "thumb": "/images/others/process-3.png",
-          "subtitle": "Step Three",
-          "title": "Prototyping",
-          "paragraph": "We develop interactive prototypes that allow you to visualize and test the user experience before the final design implementation."
-        },
-        {
-          "id": 4,
-          "thumb": "/images/others/process-4.png",
-          "subtitle": "Step Four",
-          "title": "Visual Design",
-          "paragraph": "Our designers create visually appealing and cohesive designs that reflect your brand identity and enhance user engagement."
-        }
       ]
     },
     "serviceName": "Consultation",
@@ -60,35 +35,10 @@
     "description": "Vulnerability Assessment and Penetration Testing for the entire network and systems connected to your business.",
     "cate": "VA-PT",
     "process": {
-      "sectionSub": "Process",
-      "sectionTitle": "Our Process",
-      "para": "Our comprehensive strategy ensures a secure network of strengthened systems.",
+      "sectionSub": " ",
+      "sectionTitle": "",
+      "para": "",
       "steps": [
-        {
-          "thumb": "/images/others/process-1.png",
-          "subtitle": "Step One",
-          "title": "Planning",
-          "paragraph": "We begin by understanding your project requirements and creating a detailed plan to guide the development process, ensuring clarity and alignment with your goals."
-        },
-        {
-          "thumb": "/images/others/process-2.png",
-          "subtitle": "Step Two",
-          "title": "Design",
-          "paragraph": "Our designers create intuitive and engaging user interfaces that align with your brand and enhance user experience."
-        },
-        {
-          "thumb": "/images/others/process-3.png",
-          "subtitle": "Step Three",
-          "title": "Development",
-          "paragraph": "Our developers utilize the latest technologies and methodologies to build robust and scalable websites, keeping you informed throughout the development process."
-        },
-        {
-          "id": 4,
-          "thumb": "/images/others/process-4.png",
-          "subtitle": "Step Four",
-          "title": "Testing",
-          "paragraph": "We rigorously test the developed website to identify and fix any issues, ensuring a smooth and error-free user experience before launch."
-        }
       ]
     },
     "serviceName": "VA-PT",
@@ -116,35 +66,10 @@
     "description": "Response planning, Threat Monitoring, Entry-level Forensic Analysis & Ransomware Readiness Testing.",
     "cate": "Incident Response",
     "process": {
-      "sectionSub": "Process",
-      "sectionTitle": "Tactics for Incident Response",
-      "para": "Our meticulous strategy ensures a safe and thorough monitoring and analysis of the incident. ",
+      "sectionSub": " ",
+      "sectionTitle": "",
+      "para": "",
       "steps": [
-        {
-          "thumb": "/images/others/process-1.png",
-          "subtitle": "Step One",
-          "title": "Discovery",
-          "paragraph": "We start by understanding your app idea, target audience, and business goals to create a strategic roadmap for development."
-        },
-        {
-          "thumb": "/images/others/process-2.png",
-          "subtitle": "Step Two",
-          "title": "Prototyping",
-          "paragraph": "We develop interactive prototypes to visualize and test the app's user experience and functionality before the final development."
-        },
-        {
-          "thumb": "/images/others/process-3.png",
-          "subtitle": "Step Three",
-          "title": "Development",
-          "paragraph": "Our developers use the latest technologies and best practices to build a robust and scalable mobile application, ensuring it meets all your requirements."
-        },
-        {
-          "id": 4,
-          "thumb": "/images/others/process-4.png",
-          "subtitle": "Step Four",
-          "title": "Testing",
-          "paragraph": "We conduct thorough testing to identify and resolve any issues, ensuring a smooth and error-free user experience before the app is launched."
-        }
       ]
     },
     "serviceName": "Incident Response",
@@ -170,37 +95,11 @@
     "title": "Data Protection & Compliance",
     "description": "Data is the new currency and its protection is of outmost importance and so are the guidelines regarding data.",
     "cate": "Data Protection & Compliance",
-    "process": 
-    {
-      "sectionSub": "Process",
-      "sectionTitle": "Data Protection & Compliance Process",
-      "para": "Two birds with one stone. Being compliant while also protecting customer data.",
+    "process": {
+      "sectionSub": " ",
+      "sectionTitle": "",
+      "para": "",
       "steps": [
-        {
-          "thumb": "/images/others/process-1.png",
-          "subtitle": "Step One",
-          "title": "Audit",
-          "paragraph": "We start with a comprehensive audit of your website to identify strengths, weaknesses, and opportunities for improvement."
-        },
-        {
-          "thumb": "/images/others/process-2.png",
-          "subtitle": "Step Two",
-          "title": "Keyword Research",
-          "paragraph": "Our team conducts thorough keyword research to find the best terms for your business, targeting the right audience and driving relevant traffic."
-        },
-        {
-          "thumb": "/images/others/process-3.png",
-          "subtitle": "Step Three",
-          "title": "On-Page Optimization",
-          "paragraph": "We optimize your website's content, meta tags, and structure to ensure it is search engine friendly and aligned with target keywords."
-        },
-        {
-          "id": 4,
-          "thumb": "/images/others/process-4.png",
-          "subtitle": "Step Four",
-          "title": "Off-Page Optimization",
-          "paragraph": "Our off-page strategies include building high-quality backlinks, social media engagement, and other techniques to boost your website's authority and ranking."
-        }
       ]
     },
     "serviceName": "Data Protection & Compliance",
@@ -226,35 +125,10 @@
     "description": "Equipped with resources to train your staff on all recent trends in Cybersecurity. Your Employee is your best asset.",
     "cate": "Cyber-Awareness Training",
     "process": {
-      "sectionSub": "Process",
-      "sectionTitle": "Our Training Process",
-      "para": "Our meticulously designed process is sufficient to equip your staff with the knowledge to be cyber-safe and be cyber-smart in today's world.",
+      "sectionSub": " ",
+      "sectionTitle": "",
+      "para": "",
       "steps": [
-        {
-          "thumb": "/images/others/process-1.png",
-          "subtitle": "Step One",
-          "title": "Planning",
-          "paragraph": "We start by understanding your vision and objectives, creating a detailed plan to guide the video editing process and ensure alignment with your goals."
-        },
-        {
-          "thumb": "/images/others/process-2.png",
-          "subtitle": "Step Two",
-          "title": "Rough Cut",
-          "paragraph": "Our editors create a rough cut of the video, arranging the footage and establishing the basic structure and flow to provide an initial preview."
-        },
-        {
-          "thumb": "/images/others/process-3.png",
-          "subtitle": "Step Three",
-          "title": "Fine Tuning",
-          "paragraph": "We refine the video by enhancing the visuals, adding transitions, effects, and adjusting the pacing to ensure a polished and cohesive final product."
-        },
-        {
-          "id": 4,
-          "thumb": "/images/others/process-4.png",
-          "subtitle": "Step Four",
-          "title": "Final Review",
-          "paragraph": "We conduct a thorough review of the video with you, making any necessary adjustments based on your feedback to ensure complete satisfaction."
-        }
       ]
     },
     "serviceName": "Cyber-Awareness Training",
@@ -280,35 +154,10 @@
     "description": "Your infrastructure setup defines how strong your first layer of defense is. We can help.",
     "cate": "Secure Infrastructure",
     "process": {
-      "sectionSub": "Process",
-      "sectionTitle": "Process of Securing your Infrastructure",
-      "para": "Steps",
+      "sectionSub": " ",
+      "sectionTitle": "",
+      "para": "",
       "steps": [
-        {
-          "thumb": "/images/others/process-1.png",
-          "subtitle": "Step One",
-          "title": "Discover",
-          "paragraph": "We start by understanding your brand's vision, values, and target audience to lay the foundation for a compelling logo and branding strategy."
-        },
-        {
-          "thumb": "/images/others/process-2.png",
-          "subtitle": "Step Two",
-          "title": "Conceptualize",
-          "paragraph": "Our designers brainstorm and create initial logo concepts and branding elements, ensuring they align with your brand's identity and goals."
-        },
-        {
-          "thumb": "/images/others/process-3.png",
-          "subtitle": "Step Three",
-          "title": "Refine",
-          "paragraph": "We refine the selected concepts, incorporating your feedback to perfect the designs and ensure they resonate with your audience."
-        },
-        {
-          "id": 4,
-          "thumb": "/images/others/process-4.png",
-          "subtitle": "Step Four",
-          "title": "Deliver",
-          "paragraph": "We finalize the logo and branding assets, providing you with all the necessary files and guidelines for consistent brand representation across various platforms."
-        }
       ]
     },
     "serviceName": "Secure Infrastructure",
@@ -334,35 +183,10 @@
     "description": "Business Continuity & Disaster Recovery. Stay resistant to attacks and never halt your operations.",
     "cate": "BC-DR",
     "process": {
-      "sectionSub": "Process",
-      "sectionTitle": "Our Social Media Marketing Process",
-      "para": "Our strategic approach to social media marketing ensures your brand stands out and connects with your target audience.",
+      "sectionSub": " ",
+      "sectionTitle": "",
+      "para": "",
       "steps": [
-        {
-          "thumb": "/images/others/process-1.png",
-          "subtitle": "Step One",
-          "title": "Discover",
-          "paragraph": "We start by understanding your business goals, target audience, and current social media presence to create a tailored strategy."
-        },
-        {
-          "thumb": "/images/others/process-2.png",
-          "subtitle": "Step Two",
-          "title": "Strategize",
-          "paragraph": "Our team develops a comprehensive social media plan, including content themes, posting schedules, and engagement tactics."
-        },
-        {
-          "thumb": "/images/others/process-3.png",
-          "subtitle": "Step Three",
-          "title": "Create",
-          "paragraph": "We create high-quality, engaging content that resonates with your audience and aligns with your brand’s voice and objectives."
-        },
-        {
-          "id": 4,
-          "thumb": "/images/others/process-4.png",
-          "subtitle": "Step Four",
-          "title": "Execute",
-          "paragraph": "We implement the social media plan, posting content, engaging with your audience, and monitoring performance to ensure optimal results."
-        }
       ]
     },
     "serviceName": "BC-DR",
@@ -388,35 +212,10 @@
     "description": "Stay proactive in securing your business with our comprehensive Audit and Reporting service.",
     "cate": "Audit and Reporting",
     "process": {
-      "sectionSub": "Process",
-      "sectionTitle": "DELETE ALL THIS",
-      "para": "Our comprehensive strategy ensures that your systems are always aligned with the latest security standards.",
+      "sectionSub": " ",
+      "sectionTitle": "",
+      "para": "",
       "steps": [
-        {
-          "thumb": "/images/others/process-1.png",
-          "subtitle": "Step One",
-          "title": "Discover",
-          "paragraph": "We begin by understanding your business, target audience, and marketing objectives to lay the foundation for your advertising strategy."
-        },
-        {
-          "thumb": "/images/others/process-2.png",
-          "subtitle": "Step Two",
-          "title": "Plan",
-          "paragraph": "Our team creates a detailed advertising plan, including budget allocation, channel selection, and creative concepts tailored to your goals."
-        },
-        {
-          "thumb": "/images/others/process-3.png",
-          "subtitle": "Step Three",
-          "title": "Create",
-          "paragraph": "We develop compelling ad creatives and messaging that capture attention and resonate with your target audience across various platforms."
-        },
-        {
-          "id": 4,
-          "thumb": "/images/others/process-4.png",
-          "subtitle": "Step Four",
-          "title": "Execute",
-          "paragraph": "We implement the advertising strategy, launching campaigns across selected channels and ensuring they run smoothly and effectively."
-        }
       ]
     },
     "serviceName": "Audit and Reporting",
@@ -442,35 +241,10 @@
     "description": "Enhance your cybersecurity strategy with a virtual CISO, and protect your business with expert leadership.",
     "cate": "vCISO Service",
     "process": {
-      "sectionSub": "Process",
-      "sectionTitle": "Process of deploying a vCISO",
-      "para": "How we create a vCISO catered to your Organization",
+      "sectionSub": " ",
+      "sectionTitle": "",
+      "para": "",
       "steps": [
-        {
-          "thumb": "/images/others/process-1.png",
-          "subtitle": "Step One",
-          "title": "Discover",
-          "paragraph": "We begin by understanding your content needs, goals, and existing systems to create a tailored content management plan."
-        },
-        {
-          "thumb": "/images/others/process-2.png",
-          "subtitle": "Step Two",
-          "title": "Plan",
-          "paragraph": "Our team develops a detailed content management strategy, including workflow design, platform selection, and content architecture."
-        },
-        {
-          "thumb": "/images/others/process-3.png",
-          "subtitle": "Step Three",
-          "title": "Develop",
-          "paragraph": "We build and customize the content management system, ensuring it integrates seamlessly with your existing tools and processes."
-        },
-        {
-          "id": 4,
-          "thumb": "/images/others/process-4.png",
-          "subtitle": "Step Four",
-          "title": "Implement",
-          "paragraph": "We implement the content management system, providing training and support to ensure your team can use it effectively."
-        }
       ]
     },
     "serviceName": "vCISO Service",

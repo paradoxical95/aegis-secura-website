@@ -23,13 +23,6 @@ const AboutOne = () => {
               </div>
             </div>
           </div>
-
-          <div className='col-xl-5 col-lg-6 offset-xl-1'>
-            <div className='contact-form-box'>
-              <h3 className='title'>Get a free Keystroke quote now</h3>
-              <FormOne />
-            </div>
-          </div>
         </div>
       </div>
       <ul className='shape-group-6 list-unstyled'>

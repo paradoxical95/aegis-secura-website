@@ -110,17 +110,13 @@ const OffcanvasMenu = ({ offcanvasShow, offcanvasHide }) => {
                 <address className='address'>
                   <span className='title'>Contact Information</span>
                   <p>
-                    Some place
-                    <br /> New Delhi, India
+                    New Delhi, India
                   </p>
                 </address>
                 <address className='address'>
-                  <span className='title'>We're Available 24/7. Call Now.</span>
-                  <a href='tel:+918448728057' className='tel'>
-                    <FaPhone /> (+91) 0000-111-222
-                  </a>
-                  <a href='tel:917827175789' className='tel'>
-                    <FaPhone /> (+91) 0000-111-222
+                  <span className='title'>Write to us</span>
+                  <a href='mailto:info@aegis-secura.tech'>
+                      info@aegis-secura.tech
                   </a>
                 </address>
               </div>

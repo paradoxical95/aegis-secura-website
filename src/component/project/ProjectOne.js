@@ -26,7 +26,7 @@ const filters = [
   },
   {
     id: 5,
-    label: "Audit & Reporting",
+    label: "Audit And Reporting",
   },
   {
     id: 6,

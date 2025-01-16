@@ -27,28 +27,16 @@ const Contact = () => {
                 </div>
               </div>
               <div className='col-xl-5 col-lg-6 offset-xl-1'>
-                <div className='contact-info mb--100 mb_md--30 mt_md--0 mt--150'>
-                  <h4 className='title'>Phone</h4>
-                  <p>
-                    Drop a missed call or an SMS/Whatsapp and we will get back to you withing 24-hrs
-                  </p>
-                  <h4 className='phone-number'>
-                    <a href='tel:918448728057'>(+91) 0000-111-222</a>
-                  </h4>
-                  <h4 className='phone-number'>
-                    <a href='tel:917827175789'>(+91) 0000-111-222</a>
-                  </h4>
-                </div>
                 <div className='contact-info mb--30'>
                   <h4 className='title'>Email</h4>
-                  <p>Our team will get back to you within 24-hrs</p>
+                  <p>Our team will get back to you very soon</p>
                   <h4 className='phone-number' >
-                    <a href='mailto:mansabmir@codechip.in'>
+                    <a href='mailto:info@aegis-secura.tech'>
                       info@aegis-secura.tech
                     </a>
                   </h4>
                   <h4 className='phone-number'>
-                    <a href='mailto:saurabh@codechip.in'>help@aegis-secura.tech</a>
+                    <a href='mailto:help@aegis-secura.tech'>help@aegis-secura.tech</a>
                   </h4>
                 </div>
               </div>

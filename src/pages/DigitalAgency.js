@@ -70,7 +70,7 @@ const DigitalAgency = () => {
         <ProjectOne itemShow={10} />
         <CounterUpOne />
         <TestimonialOne />
-        <div className='section bg-color-light section-padding'>
+        {/* <div className='section bg-color-light section-padding'>
           <div className='container'>
             <SectionTitle
               subtitle='Pricing Plan'
@@ -95,7 +95,7 @@ const DigitalAgency = () => {
               />
             </li>
           </ul>
-        </div>
+        </div> */}
         <BrandOne />
         {/* <BlogOne /> */}
         <CtaLayoutOne />
