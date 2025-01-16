@@ -31,7 +31,7 @@ const PrivacyPolicy = () => {
                     manner. This policy outlines how we comply with the General
                     Data Protection Regulation (GDPR).
                   </p>
-                  <h4>About Codechip</h4>
+                  <h4>About Aegis Secura</h4>
                   <p>
                     Aegis Secura Technologies is dedicated to providing high-quality services and
                     products to our users. For any questions regarding our
