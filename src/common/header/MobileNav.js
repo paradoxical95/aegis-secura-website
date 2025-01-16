@@ -1,7 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import { FaAngleDown } from "react-icons/fa";
-import React from "react";
 
 const MobileNav = () => {
   return (
