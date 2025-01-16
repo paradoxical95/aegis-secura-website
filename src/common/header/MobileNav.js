@@ -1,6 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import { FaAngleDown } from "react-icons/fa";
+import React from "react";
 
 const MobileNav = () => {
   return (
@@ -25,70 +26,61 @@ const MobileNav = () => {
             {/* <li><Link to={process.env.PUBLIC_URL + "/service-one"}>Design</Link></li>
                         <li><Link to={process.env.PUBLIC_URL + "/service-two"}>Service Two</Link></li> */}
             <li>
-              <Link to={process.env.PUBLIC_URL + "/service-details/design"}>
-                Design
+              <Link to={process.env.PUBLIC_URL + "/service-details/consultation"}>
+                Consultation
               </Link>
             </li>
             <li>
               <Link
                 to={
                   process.env.PUBLIC_URL +
-                  "/service-details/website-development"
+                  "/service-details/va-pt"
                 }
               >
-                Web Development
+                VAPT
               </Link>
             </li>
             <li>
               <Link
-                to={process.env.PUBLIC_URL + "/service-details/app-development"}
+                to={process.env.PUBLIC_URL + "/service-details/incident-response"}
               >
-                App Development
+                Incident Response
               </Link>
             </li>
             <li>
-              <Link to={process.env.PUBLIC_URL + "/service-details/seo"}>
-                SEO
+              <Link to={process.env.PUBLIC_URL + "/service-details/data-protection-compliance"}>
+              Data Protection & Compliance
               </Link>
             </li>
             <li>
               <Link
-                to={process.env.PUBLIC_URL + "/service-details/video-editing"}
+                to={process.env.PUBLIC_URL + "/service-details/cyber-awareness-training"}
               >
-                Video Editing
+                Cybersecurity Awareness Training
               </Link>
             </li>
             <li>
               <Link
-                to={process.env.PUBLIC_URL + "/service-details/logo-branding"}
+                to={process.env.PUBLIC_URL + "/service-details/secure-infrastructure"}
               >
-                Branding
+                Secure Infrastructure
               </Link>
             </li>
             <li>
-              <Link to={process.env.PUBLIC_URL + "/service-details/smm"}>
-                Social Media Manage
-              </Link>
-            </li>
-            <li>
-              <Link
-                to={
-                  process.env.PUBLIC_URL +
-                  "/service-details/advertising-strategy"
-                }
-              >
-                Ads Management
-              </Link>
-            </li>
-            <li>
-              <Link
-                to={
-                  process.env.PUBLIC_URL + "/service-details/content-management"
-                }
-              >
-                Content Management
-              </Link>
-            </li>
+                <Link to={process.env.PUBLIC_URL + "/service-details/bc-dr"}>
+                BC-DR
+                </Link>
+              </li>
+              <li>
+                <Link to={process.env.PUBLIC_URL + "/service-details/audit-and-reporting"}>
+                  Audit and Reporting
+                </Link>
+              </li>
+              <li>
+                <Link to={process.env.PUBLIC_URL + "/service-details/vciso-service"}>
+                  vCISO Service
+                </Link>
+              </li>
           </ul>
         </li>
         <li>
