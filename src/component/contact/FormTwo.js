@@ -21,10 +21,10 @@ const FormTwo = () => {
 
         emailjs
           .sendForm(
-            "service_1at5acu",
-            "template_7asf2l7",
+            "service_4ldwvxk", // this is my Service ID - Aegis Secura
+            "template_88k2g2a", // this is my Template ID - Aegis Secura
             form.current,
-            "kQ0Ia0iPVdaybekRq"
+            "y4RCMAoaD8rGG3gTz" // My public API Key - Aegis Secura
           )
           .then(
             (result) => {
